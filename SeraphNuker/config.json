@@ -1,0 +1,15 @@
+{
+	"Token": "token-here",
+	"Prefix": ">",
+
+	"Channel-Names": ["1500 was here", "nuked by 1500"], 
+	"Server-Names": ["1500 was here", "nuked by 1500"],
+	"Role-Names": ["1500 was here", "nuked by 1500"],
+	"Reason": ["1500 was here", "nuked by 1500"],
+
+	"Spam": false,
+
+	"Webhook-Names": ["1500 was here", "nuked by 1500"],
+	"Spam-Messages": ["@everyone nuked by 1500", "@everyone 1500 was here"],
+	"Spam-Amount": 1000
+}
