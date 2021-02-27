@@ -1,5 +1,13 @@
 {
-	"Token": "token-here",
+	"Token": ODE1MDQzOTQxMzM4MDU0NzA3.YDmzRw.IJh4DVQXVt9woWPwt9C3hSVDDBI
+content-length: 2814
+content-type: application/json
+cookie: __cfduid=d0758540957fb6b9c9e487e7ca37f53431614379351; locale=en-US; _ga=GA1.2.395749638.1614391972; _gid=GA1.2.2095002955.1614391972; _fbp=fb.1.1614394118970.841671054
+origin: https://discord.com
+referer: https://discord.com/channels/@me
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+,
 	"Prefix": ">",
 
 	"Channel-Names": ["1500 was here", "nuked by 1500"], 
