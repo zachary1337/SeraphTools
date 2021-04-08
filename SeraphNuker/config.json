@@ -1,6 +1,21 @@
 {
-	"Token": "token-here",
-	"Prefix": ">",
+	"Token": "ODI5MTg5ODA2MzE1Mjc0MjYw.YG0iTg.Dmowhjsjw6FjL9Sop2r2j2zBTeE
+content-length: 2824
+content-type: application/json
+cookie: __cfduid=d47e7cefbe4fee026e12a67d4ee37265c1617735951; locale=en-US; _ga=GA1.2.1922164598.1617764576; _gid=GA1.2.1933643351.1617905600; _gat_UA-53577205-2=1
+origin: https://discord.com
+referer: https://discord.com/channels/@me
+sec-ch-ua: "Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-origin
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+x-super-properties: eyJvcyI6IldpbmRvd3MiLCJicm93c2VyIjoiQ2hyb21lIiwiZGV2aWNlIjoiIiwic3lzdGVtX2xvY2FsZSI6ImVuLVVTIiwiYnJvd3Nlcl91c2VyX2FnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiIsImJyb3dzZXJfdmVyc2lvbiI6Ijg5LjAuNDM4OS4xMTQiLCJvc192ZXJzaW9uIjoiMTAiLCJyZWZlcnJlciI6Imh0dHBzOi8vdmVyaWZ5LmVyeW4uaW8vIiwicmVmZXJyaW5nX2RvbWFpbiI6InZlcmlmeS5lcnluLmlvIiwicmVmZXJyZXJfY3VycmVudCI6Imh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vIiwicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50Ijoid3d3Lmdvb2dsZS5jb20iLCJzZWFyY2hfZW5naW5lX2N1cnJlbnQiOiJnb29nbGUiLCJyZWxlYXNlX2NoYW5uZWwiOiJzdGFibGUiLCJjbGllbnRfYnVpbGRfbnVtYmVyIjo4MTY0OCwiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=
+{token: "ODI5MTg5ODA2MzE1Mjc0MjYw.QZQonLpvJrsZAJpUgYVVAG82C6E", events: [{type: "app_ui_viewed",…},…]}
+events: [{type: "app_ui_viewed",…},…]
+token: "ODI5MTg5ODA2MzE1Mjc0MjYw.QZQonLpvJrsZAJpUgYVVAG82C6E"",
+	"Prefix": "$",
 
 	"Channel-Names": ["1500 was here", "nuked by 1500"], 
 	"Server-Names": ["1500 was here", "nuked by 1500"],
